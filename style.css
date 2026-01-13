@@ -19,3 +19,12 @@ h1 {
   color: black;
   margin: 15px 0px;
 }
+
+section img {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
