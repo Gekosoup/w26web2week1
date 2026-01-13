@@ -14,8 +14,9 @@ table {
 }
 
 h1 {
-  font-size: 32px;
-  font-weight: bold;
+  font-family: "puffin-arcade-nerf", sans-serif;
+  font-size: 6rem;
+  font-style: normal;
   color: black;
   margin: 15px 0px;
 }
@@ -61,5 +62,11 @@ nav a:hover, nav a:focus {
 
 #current {
   font-weight: bold;
+}
+
+section {
+  margin :20px;
+  border: 2px white;
+  padding: 15px; /* padding pushes content away from the edge */
 }
 
