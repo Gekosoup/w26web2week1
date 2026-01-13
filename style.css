@@ -28,6 +28,11 @@ section img {
   margin-right: 20px;
 }
 
+nav a {
+  color: rgb(81, 67, 93);
+  font-size: 1,2em; /* ems are relative to the font size of the parent */
+}
+
 nav ul {
   padding: 0;
   list-style: none;
@@ -37,6 +42,20 @@ nav ul {
   list-style-type: none;
 }
 
+
 nav ul li {
-  padding-left: 1.25em;
+  padding: 20px;
+  color:rgb(0, 0, 0);
 }
+
+nav a:link, nav a:visited {
+  color: rgb(97, 61, 79); 
+  text-decoration: none;
+}
+
+nav a:hover, nav a:focus {
+  color: lightsteelblue;
+  opacity:1;
+  transition: all 0.3s ease;
+}
+
