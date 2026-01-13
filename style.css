@@ -1,0 +1,21 @@
+body {
+  max-width: 800px;
+  background-color: lightcyan;
+  margin: 0 auto;
+}
+
+ul li {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 1px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+  margin: 15px 0px;
+}
