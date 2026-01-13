@@ -21,6 +21,14 @@ h1 {
   margin: 15px 0px;
 }
 
+h3 {
+  font-family: "puffin-arcade-level", sans-serif;
+  font-style: normal;
+  color:black;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
 section img {
   float: left;
   width: 150px;
