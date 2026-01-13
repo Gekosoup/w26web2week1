@@ -1,6 +1,7 @@
 body {
   background-color: lightcyan;
   margin: 0 auto;
+  align-self: center;
 }
 
 ul li {
